@@ -1,0 +1,1334 @@
+﻿[
+    {
+        "item_code": "2150111060",
+        "description": "ACETAZOLAMIDE TAB 250MG BP",
+        "vendor_price": "810.00",
+        "retail_price": "956.00"
+    },
+    {
+        "item_code": "0601511000",
+        "description": "ACYCLOVIR TAB 200MG (CYCLOVIR)(10X10)BP",
+        "vendor_price": "675.00",
+        "retail_price": "776.00"
+    },
+    {
+        "item_code": "1910731010",
+        "description": "ADSORBED TETANUS VACCINE 0.5ML BP",
+        "vendor_price": "90.00",
+        "retail_price": "104.00"
+    },
+    {
+        "item_code": "0600112250",
+        "description": "ALBENDAZOLE TAB 400MG (LOKABEN)USP(10X5)",
+        "vendor_price": "450.00",
+        "retail_price": "518.00"
+    },
+    {
+        "item_code": "2704511040",
+        "description": "ALFACALCIDOL CAP 0.25MCG(CALCICURE)",
+        "vendor_price": "260.00",
+        "retail_price": "299.00"
+    },
+    {
+        "item_code": "1700821330",
+        "description": "ALUM.HYD.MAG.HYD.SIM.SUSP(MINT)(DIGENE) OSU",
+        "vendor_price": "291.30",
+        "retail_price": "335.00"
+    },
+    {
+        "item_code": "1700821411",
+        "description": "ALUM.HYD.MAG.HYD.SIME SUSP(DIOVOL)(MINT)",
+        "vendor_price": "193.00",
+        "retail_price": "222.00"
+    },
+    {
+        "item_code": "1601411020",
+        "description": "AMILORIDE HYD TAB (MODURETIC) (10X10)",
+        "vendor_price": "1700.00",
+        "retail_price": "1955.00"
+    },
+    {
+        "item_code": "2700211020",
+        "description": "ASCORBIC ACID TAB 100MG BP",
+        "vendor_price": "996.00",
+        "retail_price": "1145.00"
+    },
+    {
+        "item_code": "2700212260",
+        "description": "ASCORBIC ACID TAB 500MG(CEE-ORANGE)",
+        "vendor_price": "1304.00",
+        "retail_price": "1500.00"
+    },
+    {
+        "item_code": "0200311120",
+        "description": "ASPIRIN TAB DR 150MG (ECOSPRIN)BP",
+        "vendor_price": "275.00",
+        "retail_price": "317.00"
+    },
+    {
+        "item_code": "1210213020",
+        "description": "ATENOLOL TAB 25MG BP -",
+        "vendor_price": "160.00",
+        "retail_price": "184.00"
+    },
+    {
+        "item_code": "1210211112",
+        "description": "ATENOLOL TAB 50MG (BETANOL)(10X10)BP",
+        "vendor_price": "130.00",
+        "retail_price": "150.00"
+    },
+    {
+        "item_code": "1101013000",
+        "description": "ATORVASTATIN TAB 05MG (10X10) IP",
+        "vendor_price": "535.00",
+        "retail_price": "616.00"
+    },
+    {
+        "item_code": "1101012200",
+        "description": "ATORVASTATIN TAB 20MG(ATOREC)(3X10)",
+        "vendor_price": "110.00",
+        "retail_price": "127.00"
+    },
+    {
+        "item_code": "2145161130",
+        "description": "ATROPINE SULP EYE DROP 1%",
+        "vendor_price": "455.00",
+        "retail_price": "525.00"
+    },
+    {
+        "item_code": "0802211030",
+        "description": "AZATHIOPRINE TAB 50MG (10X10)BP",
+        "vendor_price": "870.00",
+        "retail_price": "1000.00"
+    },
+    {
+        "item_code": "2500663000",
+        "description": "BECLOMETHA INHA 100MCG (BECLATE)BP",
+        "vendor_price": "504.00",
+        "retail_price": "580.00"
+    },
+    {
+        "item_code": "2500662020",
+        "description": "BECLOMETHA INHA 250MCG(BECLATE)BP",
+        "vendor_price": "600.00",
+        "retail_price": "690.00"
+    },
+    {
+        "item_code": "3160100070",
+        "description": "BED PAN 35.5CM WITH HANDLE (PLASTIC)",
+        "vendor_price": "500.00",
+        "retail_price": "575.00"
+    },
+    {
+        "item_code": "0900111011",
+        "description": "BENZHEXOL TAB 2MG BP",
+        "vendor_price": "620.00",
+        "retail_price": "750.00"
+    },
+    {
+        "item_code": "1320661110",
+        "description": "BETAMETH EYE\/EAR\/NOSE DROP (PROBETA)BP",
+        "vendor_price": "165.00",
+        "retail_price": "190.00"
+    },
+    {
+        "item_code": "1320652140",
+        "description": "BETAMETH OINT 0.1% 15G (BETANONE)BP(500)",
+        "vendor_price": "65.00",
+        "retail_price": "75.00"
+    },
+    {
+        "item_code": "1800111030",
+        "description": "BETAMETHASONE TAB 0.5MG (WALACORT)IP",
+        "vendor_price": "150.00",
+        "retail_price": "172.00"
+    },
+    {
+        "item_code": "2145861030",
+        "description": "BIMATOP.OPT.SOL.0.03%",
+        "vendor_price": "575.00",
+        "retail_price": "661.00"
+    },
+    {
+        "item_code": "2145861020",
+        "description": "BIMATOP.OPT.SOL.0.03% (BIMAT)",
+        "vendor_price": "1255.00",
+        "retail_price": "1444.00"
+    },
+    {
+        "item_code": "1830932150",
+        "description": "BIPH.ISO.(HUM)INS(30\/70)100I(PEN)(WOSULIN)",
+        "vendor_price": "492.00",
+        "retail_price": "566.00"
+    },
+    {
+        "item_code": "1740171040",
+        "description": "BISACODYL SUPPO (INF)5MG(CONLAX)USP",
+        "vendor_price": "130.00",
+        "retail_price": "150.00"
+    },
+    {
+        "item_code": "1740111320",
+        "description": "BISACODYL TAB 5MG (10X10)IP",
+        "vendor_price": "330.00",
+        "retail_price": "380.00"
+    },
+    {
+        "item_code": "3001001013",
+        "description": "BORIC ACID POWDER BP",
+        "vendor_price": "428.00",
+        "retail_price": "492.00"
+    },
+    {
+        "item_code": "3001001014",
+        "description": "BORIC ACID POWDER BP",
+        "vendor_price": "559.45",
+        "retail_price": "643.00"
+    },
+    {
+        "item_code": "0900311100",
+        "description": "BROMOCRIPTIN TAB 2.5MG BP",
+        "vendor_price": "300.00",
+        "retail_price": "345.00"
+    },
+    {
+        "item_code": "2704331020",
+        "description": "CALCIUM GLUCONATE INJ BP 10%",
+        "vendor_price": "280.00",
+        "retail_price": "322.00"
+    },
+    {
+        "item_code": "0500112010",
+        "description": "CARBAMAZEP CR TAB 200MG (CARBATOL CR)",
+        "vendor_price": "1500.00",
+        "retail_price": "1725.00"
+    },
+    {
+        "item_code": "2130861000",
+        "description": "CARBOXYMETHYL.GLYC.EYE DROP(OPTIVE)",
+        "vendor_price": "745.00",
+        "retail_price": "858.00"
+    },
+    {
+        "item_code": "1210313001",
+        "description": "CARVEDILOL TAB 12.5MG(10X10)USP",
+        "vendor_price": "880.00",
+        "retail_price": "1012.00"
+    },
+    {
+        "item_code": "1210312010",
+        "description": "CARVEDILOL TAB 3.125MG (10X10)",
+        "vendor_price": "436.00",
+        "retail_price": "501.00"
+    },
+    {
+        "item_code": "1210311001",
+        "description": "CARVEDILOL TAB 6.25MG (10X10)USP",
+        "vendor_price": "500.00",
+        "retail_price": "575.00"
+    },
+    {
+        "item_code": "0625412020",
+        "description": "CEFUROXIME TAB 125MG (CEFASYN)",
+        "vendor_price": "252.00",
+        "retail_price": "290.00"
+    },
+    {
+        "item_code": "0625513014",
+        "description": "CEPHALEXIN CAP 500MG (CEPHADEX)IP",
+        "vendor_price": "1000.00",
+        "retail_price": "1150.00"
+    },
+    {
+        "item_code": "3162700120",
+        "description": "CERVICAL COLLERS (M) (SOFT)",
+        "vendor_price": "440.00",
+        "retail_price": "506.00"
+    },
+    {
+        "item_code": "3162700220",
+        "description": "CERVICAL COLLERS (S) (SOFT)",
+        "vendor_price": "425.00",
+        "retail_price": "490.00"
+    },
+    {
+        "item_code": "1845131060",
+        "description": "CHORIONIC GONAD INJ 5000U (OVIDAC)IP",
+        "vendor_price": "1476.00",
+        "retail_price": "1697.00"
+    },
+    {
+        "item_code": "1701611220",
+        "description": "CIMETIDINE TAB 200MG BP",
+        "vendor_price": "854.00",
+        "retail_price": "982.00"
+    },
+    {
+        "item_code": "1710111300",
+        "description": "CINNARIZINE TAB 25MG",
+        "vendor_price": "260.00",
+        "retail_price": "299.00"
+    },
+    {
+        "item_code": "3001801400",
+        "description": "CITRIC ACID CRYSTALS",
+        "vendor_price": "264.60",
+        "retail_price": "305.00"
+    },
+    {
+        "item_code": "0633011360",
+        "description": "CLARITHROMYCIN TAB 250MG",
+        "vendor_price": "1700.00",
+        "retail_price": "2000.00"
+    },
+    {
+        "item_code": "0633011350",
+        "description": "CLARITHROMYCIN TAB 250MG (ACEM-250)",
+        "vendor_price": "1600.00",
+        "retail_price": "1840.00"
+    },
+    {
+        "item_code": "0633012000",
+        "description": "CLARITHROMYCIN TAB USP 500MG (KLATRIL)",
+        "vendor_price": "590.00",
+        "retail_price": "679.00"
+    },
+    {
+        "item_code": "1845211130",
+        "description": "CLOMIFENE  CIT TAB 50MG (OVULET)BP",
+        "vendor_price": "260.00",
+        "retail_price": "300.00"
+    },
+    {
+        "item_code": "1350542130",
+        "description": "CLOTRIMOZOL BEC.CREAM (CANDID-B)",
+        "vendor_price": "218.00",
+        "retail_price": "251.00"
+    },
+    {
+        "item_code": "1350542140",
+        "description": "CLOTRIMOZOL BEC.DIP.CREAM (TRANSLIPO-CB)",
+        "vendor_price": "180.00",
+        "retail_price": "207.00"
+    },
+    {
+        "item_code": "0610711111",
+        "description": "CLOXACILLIN CAP 250MG   BP",
+        "vendor_price": "3670.00",
+        "retail_price": "4250.00"
+    },
+    {
+        "item_code": "0610711240",
+        "description": "CLOXACILLIN CAP 250MG (UCLOX)USP",
+        "vendor_price": "550.00",
+        "retail_price": "633.00"
+    },
+    {
+        "item_code": "1701011150",
+        "description": "COMP MAG TRISILICATE TAB BP",
+        "vendor_price": "845.00",
+        "retail_price": "972.00"
+    },
+    {
+        "item_code": "0630512131",
+        "description": "COTRIMOXAZOLE TAB (A) 480MG BP",
+        "vendor_price": "1965.00",
+        "retail_price": "2300.00"
+    },
+    {
+        "item_code": "3101300014",
+        "description": "COTT CREPE BAND (7.5CMX4.5M) BP",
+        "vendor_price": "259.20",
+        "retail_price": "298.00"
+    },
+    {
+        "item_code": "3100900060",
+        "description": "COTTON BANDAGES (4.5M * 5CM)",
+        "vendor_price": "270.00",
+        "retail_price": "310.00"
+    },
+    {
+        "item_code": "3101000080",
+        "description": "COTTON BANDAGES (6.25CM X 4.5M)BP(2.5\")",
+        "vendor_price": "280.00",
+        "retail_price": "322.00"
+    },
+    {
+        "item_code": "3006601012",
+        "description": "CRYSTAL VIOLET BP",
+        "vendor_price": "1620.00",
+        "retail_price": "1863.00"
+    },
+    {
+        "item_code": "1000131040",
+        "description": "CYANOCOBALAMINE INJ BP\/USP 10MG\/ML",
+        "vendor_price": "104.00",
+        "retail_price": "120.00"
+    },
+    {
+        "item_code": "2145262100",
+        "description": "CYCLOPENTOLATE EYE DROP 1%(AUROPENT)",
+        "vendor_price": "560.00",
+        "retail_price": "644.00"
+    },
+    {
+        "item_code": "0300611110",
+        "description": "CYPROHEPTADINE TAB 4MG (PERITOL)BP",
+        "vendor_price": "780.00",
+        "retail_price": "897.00"
+    },
+    {
+        "item_code": "1802091130",
+        "description": "DESMOPRESSIN NASAL SPARY 0.01% BP(D-PRESSIN)",
+        "vendor_price": "2500.00",
+        "retail_price": "2875.00"
+    },
+    {
+        "item_code": "2600433200",
+        "description": "DEXTROSE 25% INJ BP",
+        "vendor_price": "2400.00",
+        "retail_price": "2760.00"
+    },
+    {
+        "item_code": "2600434100",
+        "description": "DEXTROSE 50% INJ  BP",
+        "vendor_price": "1300.00",
+        "retail_price": "1495.00"
+    },
+    {
+        "item_code": "3164000000",
+        "description": "DIABETIC SHOE-BJ0001-G (LADIES) SIZE-3",
+        "vendor_price": "1872.00",
+        "retail_price": "2599.90"
+    },
+    {
+        "item_code": "3164002600",
+        "description": "DIABETIC SHOE-BJ0003-R (UNISEX) SIZE-11",
+        "vendor_price": "2666.60",
+        "retail_price": "3999.90"
+    },
+    {
+        "item_code": "3164003600",
+        "description": "DIABETIC SHOE-BJ0004-R (UNISEX) SIZE-11",
+        "vendor_price": "2666.60",
+        "retail_price": "3999.90"
+    },
+    {
+        "item_code": "0201041310",
+        "description": "DICLOFENAC GEL 1% (DICLOKARE)BP 20G(360)",
+        "vendor_price": "350.00",
+        "retail_price": "410.00"
+    },
+    {
+        "item_code": "0201012101",
+        "description": "DICLOFENAC SOD TAB 50MG",
+        "vendor_price": "510.00",
+        "retail_price": "600.00"
+    },
+    {
+        "item_code": "0640211031",
+        "description": "DIETHYLCARB TAB 50MG",
+        "vendor_price": "775.00",
+        "retail_price": "900.00"
+    },
+    {
+        "item_code": "1200211050",
+        "description": "DILTIAZEM HCL TAB 30MG (DILCARDIA)USP(100)",
+        "vendor_price": "215.00",
+        "retail_price": "247.00"
+    },
+    {
+        "item_code": "1200212030",
+        "description": "DILTIAZEM HCL TAB 60MG (DILCARDIA)(UNIQE)",
+        "vendor_price": "330.00",
+        "retail_price": "380.00"
+    },
+    {
+        "item_code": "1200213040",
+        "description": "DILTIAZEM.H.SR TAB 90MG ((DILCARDIA)10X10",
+        "vendor_price": "1200.00",
+        "retail_price": "1380.00"
+    },
+    {
+        "item_code": "1200112120",
+        "description": "DIPYRIDAMOLE TAB 100MG (PERSANIN)(10X10)BP",
+        "vendor_price": "1200.00",
+        "retail_price": "1380.00"
+    },
+    {
+        "item_code": "3111101120",
+        "description": "DISP HYPOD NEEDLE (18GX11\/2\")(UNOLOK)",
+        "vendor_price": "420.00",
+        "retail_price": "483.00"
+    },
+    {
+        "item_code": "3111100581",
+        "description": "DISP HYPOD NEEDLE (25GX1\")(UNOLOK)",
+        "vendor_price": "325.00",
+        "retail_price": "374.00"
+    },
+    {
+        "item_code": "3111104040",
+        "description": "DISP HYPOD NEEDLE (27GX1\/2\")",
+        "vendor_price": "325.00",
+        "retail_price": "374.00"
+    },
+    {
+        "item_code": "3111800090",
+        "description": "DISP INTRA SETS (VITROMED)",
+        "vendor_price": "55.00",
+        "retail_price": "64.00"
+    },
+    {
+        "item_code": "3110500210",
+        "description": "DISPOS SYR 5CC (22GX31MM)",
+        "vendor_price": "1010.00",
+        "retail_price": "1162.00"
+    },
+    {
+        "item_code": "1240431080",
+        "description": "DOBUTAMINE HCL INJ 250MG\/20ML",
+        "vendor_price": "960.00",
+        "retail_price": "1104.00"
+    },
+    {
+        "item_code": "0630811090",
+        "description": "DOXYCYCLINE CAP 100MG (DOXYN)USP (10X10)",
+        "vendor_price": "750.00",
+        "retail_price": "863.00"
+    },
+    {
+        "item_code": "3103000030",
+        "description": "ELAST.AD.BAND.(8CMX4\/6M)(MEDIGRIP)",
+        "vendor_price": "700.00",
+        "retail_price": "805.00"
+    },
+    {
+        "item_code": "1220412120",
+        "description": "ENALAPRIL MALEATE TAB 10MG USP",
+        "vendor_price": "200.00",
+        "retail_price": "230.00"
+    },
+    {
+        "item_code": "1220411190",
+        "description": "ENALAPRIL MALEATE TAB 5MG (10X10)",
+        "vendor_price": "160.00",
+        "retail_price": "184.00"
+    },
+    {
+        "item_code": "0630921012",
+        "description": "ERYTHROMYCIN DRY SYR 125MG\/ML (ERYTHROCIN)",
+        "vendor_price": "425.00",
+        "retail_price": "490.00"
+    },
+    {
+        "item_code": "0630911410",
+        "description": "ERYTHROMYCIN TAB 250MG (5X10)USP",
+        "vendor_price": "690.00",
+        "retail_price": "794.00"
+    },
+    {
+        "item_code": "0203812030",
+        "description": "ETORICOXIB TAB 90MG (10X10) (168)",
+        "vendor_price": "3200.00",
+        "retail_price": "3680.00"
+    },
+    {
+        "item_code": "3163600000",
+        "description": "F\/MASK FORMOGUARD FFP2 N-95(W\/EXHAL.VALVE)",
+        "vendor_price": "17999.30",
+        "retail_price": "20000.00"
+    },
+    {
+        "item_code": "3163500130",
+        "description": "F\/MASK N\/WOVEN E\/LOOP#",
+        "vendor_price": "475.00",
+        "retail_price": "550.00"
+    },
+    {
+        "item_code": "3163600200",
+        "description": "F\/MASK PROTECTIVE-KN95 (BEKANG)",
+        "vendor_price": "7100.00",
+        "retail_price": "8160.00"
+    },
+    {
+        "item_code": "3163600210",
+        "description": "F\/MASK PROTECTIVE-KN95 (HANMALASER)#",
+        "vendor_price": "270.00",
+        "retail_price": "320.00"
+    },
+    {
+        "item_code": "3163600010",
+        "description": "F\/MASK PROTECTIVE-N-95(BREATH RIGHT)",
+        "vendor_price": "8260.00",
+        "retail_price": "9500.00"
+    },
+    {
+        "item_code": "1101311000",
+        "description": "FENOFIBRATE CAP 200MG (4X7)USP",
+        "vendor_price": "410.00",
+        "retail_price": "472.00"
+    },
+    {
+        "item_code": "1000412100",
+        "description": "FERROUS SULP TAB 200MG (25X30)",
+        "vendor_price": "1200.00",
+        "retail_price": "1380.00"
+    },
+    {
+        "item_code": "2100861040",
+        "description": "FLUOROMETH OPTH SUSP.0.1% USP",
+        "vendor_price": "210.00",
+        "retail_price": "242.00"
+    },
+    {
+        "item_code": "2401311230",
+        "description": "FLUOXETINE HCL.CAP 20MG (10X10)",
+        "vendor_price": "265.00",
+        "retail_price": "305.00"
+    },
+    {
+        "item_code": "1000512011",
+        "description": "FOLIC ACID TAB 1MG",
+        "vendor_price": "600.00",
+        "retail_price": "700.00"
+    },
+    {
+        "item_code": "1600611190",
+        "description": "FRUSEMIDE TAB 40MG BP",
+        "vendor_price": "1150.00",
+        "retail_price": "1335.00"
+    },
+    {
+        "item_code": "0631011060",
+        "description": "FURAZOLIDONE TAB 100MG USP",
+        "vendor_price": "1342.00",
+        "retail_price": "1543.00"
+    },
+    {
+        "item_code": "0501512020",
+        "description": "GABAPENTIN CAP 300MG (GABAFRED-300)(3X10)",
+        "vendor_price": "250.00",
+        "retail_price": "288.00"
+    },
+    {
+        "item_code": "1100711020",
+        "description": "GEMFIBROZIL CAP 300MG (BROZILE)(10X10)BP",
+        "vendor_price": "1150.00",
+        "retail_price": "1322.00"
+    },
+    {
+        "item_code": "0620231130",
+        "description": "GENTAMICIN INJ 80MG\/2ML BP (240)",
+        "vendor_price": "720.00",
+        "retail_price": "828.00"
+    },
+    {
+        "item_code": "2100661200",
+        "description": "GENTAMYCIN EYE\/EAR DROP BP",
+        "vendor_price": "1500.00",
+        "retail_price": "1725.00"
+    },
+    {
+        "item_code": "1830211050",
+        "description": "GLIBENCLAMIDE TAB 5MG (10X10)BP",
+        "vendor_price": "58.00",
+        "retail_price": "67.00"
+    },
+    {
+        "item_code": "1830312000",
+        "description": "GLICLAZIDE MR TAB 30MG (DIAMICRON MR)",
+        "vendor_price": "650.00",
+        "retail_price": "748.00"
+    },
+    {
+        "item_code": "1830311020",
+        "description": "GLICLAZIDE TAB 80MG (DIAMICRON)",
+        "vendor_price": "290.00",
+        "retail_price": "334.00"
+    },
+    {
+        "item_code": "1830311119",
+        "description": "GLICLAZIDE TAB 80MG BP(10X10)",
+        "vendor_price": "450.00",
+        "retail_price": "518.00"
+    },
+    {
+        "item_code": "0203414000",
+        "description": "GLUCOSAMIN CAP 1500MG USP",
+        "vendor_price": "1100.00",
+        "retail_price": "1265.00"
+    },
+    {
+        "item_code": "0203413101",
+        "description": "GLUCOSAMIN CAP 750MG",
+        "vendor_price": "850.00",
+        "retail_price": "978.00"
+    },
+    {
+        "item_code": "3201001001",
+        "description": "GLUCOSE M 100G (DIRECT CUST.)",
+        "vendor_price": "72.00",
+        "retail_price": "85.00"
+    },
+    {
+        "item_code": "3201006000",
+        "description": "GLUCOSE M 30G (30G X 3 - 90G)",
+        "vendor_price": "75.00",
+        "retail_price": "90.00"
+    },
+    {
+        "item_code": "3201002001",
+        "description": "GLUCOSE M 500G (DIRECT CUST)",
+        "vendor_price": "285.00",
+        "retail_price": "350.00"
+    },
+    {
+        "item_code": "2401911040",
+        "description": "HALOPERIDOL TAB 1.5MG",
+        "vendor_price": "520.00",
+        "retail_price": "598.00"
+    },
+    {
+        "item_code": "1500761110",
+        "description": "HAND SANITIZER",
+        "vendor_price": "240.00",
+        "retail_price": "276.00"
+    },
+    {
+        "item_code": "1500761210",
+        "description": "HAND SANITIZER",
+        "vendor_price": "600.00",
+        "retail_price": "690.00"
+    },
+    {
+        "item_code": "1500761100",
+        "description": "HAND SANITIZER",
+        "vendor_price": "130.00",
+        "retail_price": "150.00"
+    },
+    {
+        "item_code": "1500761000",
+        "description": "HAND SANITIZER",
+        "vendor_price": "85.00",
+        "retail_price": "100.00"
+    },
+    {
+        "item_code": "1600712050",
+        "description": "HYDROCHLORTHIAZIDE TAB 50MG",
+        "vendor_price": "915.00",
+        "retail_price": "1052.00"
+    },
+    {
+        "item_code": "1321951060",
+        "description": "HYDROCORT ACET SKIN OINT 01% BP (UNICORT)",
+        "vendor_price": "50.00",
+        "retail_price": "58.00"
+    },
+    {
+        "item_code": "1800512000",
+        "description": "HYDROCORTISONE TAB 10MG USP",
+        "vendor_price": "2600.00",
+        "retail_price": "2990.00"
+    },
+    {
+        "item_code": "0801012000",
+        "description": "HYDROXYUREA CAP 500MG (JOXDRAMIDE)",
+        "vendor_price": "8260.00",
+        "retail_price": "9500.00"
+    },
+    {
+        "item_code": "1222011000",
+        "description": "INDAPAMIDE SR TAB 1.5MG(NATRILL SR)",
+        "vendor_price": "960.00",
+        "retail_price": "1104.00"
+    },
+    {
+        "item_code": "0201712120",
+        "description": "INDOMETHACIN CAP 25MG BP",
+        "vendor_price": "1450.00",
+        "retail_price": "1700.00"
+    },
+    {
+        "item_code": "1200813100",
+        "description": "ISOSORB M.SR TAB 30MG (12X10)BP (144)",
+        "vendor_price": "730.00",
+        "retail_price": "840.00"
+    },
+    {
+        "item_code": "1200812210",
+        "description": "ISOSORB MONO SR TAB 60MG (12X10)",
+        "vendor_price": "850.00",
+        "retail_price": "978.00"
+    },
+    {
+        "item_code": "1200811200",
+        "description": "ISOSORB MONO TAB 20MG(MONICOR))(5X50)BP",
+        "vendor_price": "460.00",
+        "retail_price": "529.00"
+    },
+    {
+        "item_code": "1201911000",
+        "description": "IVABRADINE HYD.TAB 5MG(CORALON-5)",
+        "vendor_price": "2800.00",
+        "retail_price": "3220.00"
+    },
+    {
+        "item_code": "1720727030",
+        "description": "JEEVANI PRINTED PLASTIC CUP WITH HANDLE",
+        "vendor_price": "40.00",
+        "retail_price": "46.00"
+    },
+    {
+        "item_code": "2000941060",
+        "description": "KAOLIN COMP POULTICE (WINMATAZINE)",
+        "vendor_price": "85.00",
+        "retail_price": "98.00"
+    },
+    {
+        "item_code": "1350141000",
+        "description": "KETACONAZOLE CREAM 2% (MYCORAL)",
+        "vendor_price": "130.00",
+        "retail_price": "150.00"
+    },
+    {
+        "item_code": "1350162000",
+        "description": "KETACONAZOLE LOTION (CONAZ)",
+        "vendor_price": "320.00",
+        "retail_price": "368.00"
+    },
+    {
+        "item_code": "1740621170",
+        "description": "LACTULOSE SOLUTION (B-LACT)",
+        "vendor_price": "260.00",
+        "retail_price": "300.00"
+    },
+    {
+        "item_code": "0501611000",
+        "description": "LAMOTRIGINE TAB 50MG (LAMOCARD)USP",
+        "vendor_price": "1200.00",
+        "retail_price": "1380.00"
+    },
+    {
+        "item_code": "3114200020",
+        "description": "LETEX FOL.CATHET.2 WAY-30ML BALLON (18FG)",
+        "vendor_price": "125.00",
+        "retail_price": "144.00"
+    },
+    {
+        "item_code": "0901011070",
+        "description": "LEVODOPA &amp; CARB TAB 275MG (SINEMET)",
+        "vendor_price": "5555.00",
+        "retail_price": "6500.00"
+    },
+    {
+        "item_code": "0901011030",
+        "description": "LEVODOPA &amp; CARB TAB 275MG (TIDOMET)BP",
+        "vendor_price": "2000.00",
+        "retail_price": "2300.00"
+    },
+    {
+        "item_code": "0110741040",
+        "description": "LIDOCAINE HCL JEL 2% IP(CIROCAINE)",
+        "vendor_price": "85.00",
+        "retail_price": "98.00"
+    },
+    {
+        "item_code": "1221811020",
+        "description": "LISINOPRIL TAB 5MG(LISTRIL) USP",
+        "vendor_price": "650.00",
+        "retail_price": "748.00"
+    },
+    {
+        "item_code": "2402111040",
+        "description": "LITHIUM CARBONATE TAB 250MG(HYPHOLITH)USP",
+        "vendor_price": "680.00",
+        "retail_price": "782.00"
+    },
+    {
+        "item_code": "0301511380",
+        "description": "LORATADINE TAB 10MG (10X10)",
+        "vendor_price": "220.00",
+        "retail_price": "253.00"
+    },
+    {
+        "item_code": "1221911300",
+        "description": "LOSARTAN POT.TAB 50MG",
+        "vendor_price": "510.00",
+        "retail_price": "600.00"
+    },
+    {
+        "item_code": "1221911116",
+        "description": "LOSARTAN POT.TAB 50MG(10X10) USP",
+        "vendor_price": "320.00",
+        "retail_price": "368.00"
+    },
+    {
+        "item_code": "3003801130",
+        "description": "MAGNESIUM SULPHATE BP",
+        "vendor_price": "1220.00",
+        "retail_price": "1515.00"
+    },
+    {
+        "item_code": "2600531010",
+        "description": "MANNITOL INJ 20% W\/O SET(OSMOFUNDIN)",
+        "vendor_price": "320.00",
+        "retail_price": "368.00"
+    },
+    {
+        "item_code": "0600412120",
+        "description": "MEBENDAZOLE TAB 500MG  USP",
+        "vendor_price": "645.00",
+        "retail_price": "750.00"
+    },
+    {
+        "item_code": "0600412000",
+        "description": "MEBENDAZOLE TAB 500MG (VERMOX)",
+        "vendor_price": "162.00",
+        "retail_price": "195.00"
+    },
+    {
+        "item_code": "0600412500",
+        "description": "MEBENDAZOLE TAB 500MG USP (48)",
+        "vendor_price": "550.00",
+        "retail_price": "633.00"
+    },
+    {
+        "item_code": "0201911140",
+        "description": "MEFENAMIC ACID TAB 250MG BP",
+        "vendor_price": "1700.00",
+        "retail_price": "1955.00"
+    },
+    {
+        "item_code": "0203212040",
+        "description": "MELOXICAM TAB 7.5MG (10X10) BP",
+        "vendor_price": "185.00",
+        "retail_price": "213.00"
+    },
+    {
+        "item_code": "3004001060",
+        "description": "MENTHOL CRYSTALS BP",
+        "vendor_price": "2748.60",
+        "retail_price": "3160.00"
+    },
+    {
+        "item_code": "1831313000",
+        "description": "METFORMIN SR TAB 500MG (10X10)",
+        "vendor_price": "780.00",
+        "retail_price": "897.00"
+    },
+    {
+        "item_code": "1831311180",
+        "description": "METFORMIN TAB 500MG BP",
+        "vendor_price": "745.00",
+        "retail_price": "875.00"
+    },
+    {
+        "item_code": "1831312060",
+        "description": "METFORMIN TAB 850MG (10X10)BP",
+        "vendor_price": "430.00",
+        "retail_price": "495.00"
+    },
+    {
+        "item_code": "1831312010",
+        "description": "METFORMIN TAB 850MG (10X10)BP",
+        "vendor_price": "450.00",
+        "retail_price": "518.00"
+    },
+    {
+        "item_code": "1356712300",
+        "description": "METHOXSALEN TAB 10MG (MELADERM)(5X30)USP",
+        "vendor_price": "2200.00",
+        "retail_price": "2530.00"
+    },
+    {
+        "item_code": "1220911210",
+        "description": "METHYLDOPA TAB 250MG (ALDOMET)(10X10)BP",
+        "vendor_price": "1850.00",
+        "retail_price": "2128.00"
+    },
+    {
+        "item_code": "1210712010",
+        "description": "METOPROLOL ER TAB 50MG(REVELOL)USP",
+        "vendor_price": "750.00",
+        "retail_price": "863.00"
+    },
+    {
+        "item_code": "0605411000",
+        "description": "METRONIDAZOLE TAB 200MG (METROGYL)BP",
+        "vendor_price": "1100.00",
+        "retail_price": "1265.00"
+    },
+    {
+        "item_code": "1351141060",
+        "description": "MICANAZOLE NIT CREAM 2%(NEOZOLE)BP",
+        "vendor_price": "40.00",
+        "retail_price": "46.00"
+    },
+    {
+        "item_code": "2502013000",
+        "description": "MONTELUKAST SOD TAB 04MG(CHEWABLE)",
+        "vendor_price": "330.00",
+        "retail_price": "380.00"
+    },
+    {
+        "item_code": "0210232040",
+        "description": "NALAXONE INJ 0.4MG 1ML (NEX 400)USP",
+        "vendor_price": "5180.00",
+        "retail_price": "6000.00"
+    },
+    {
+        "item_code": "0203311040",
+        "description": "NAPROXEN TAB 250MG (NEOPROX)(3X10)",
+        "vendor_price": "500.00",
+        "retail_price": "575.00"
+    },
+    {
+        "item_code": "2001411020",
+        "description": "NEOSTIGMINE TAB 15MG USP",
+        "vendor_price": "1560.00",
+        "retail_price": "1794.00"
+    },
+    {
+        "item_code": "1201711030",
+        "description": "NICORANDIL TAB 10MG(10X10)BP",
+        "vendor_price": "700.00",
+        "retail_price": "805.00"
+    },
+    {
+        "item_code": "1850711510",
+        "description": "NORETHISTERONE TAB 5MG(PRIMOLUT-N)",
+        "vendor_price": "500.00",
+        "retail_price": "575.00"
+    },
+    {
+        "item_code": "1720720700",
+        "description": "ORAL RE.SALT (JEEVANI) 21.5G(O)(1000ML)",
+        "vendor_price": "500.00",
+        "retail_price": "575.00"
+    },
+    {
+        "item_code": "0602511000",
+        "description": "OSELTAMIVIR CAP 75MG (FLUVIR) USP #",
+        "vendor_price": "2430.00",
+        "retail_price": "2800.00"
+    },
+    {
+        "item_code": "2900991140",
+        "description": "OXYMETAZ NASAL SPR\/SOLU.0.05%(SINAREST)",
+        "vendor_price": "150.00",
+        "retail_price": "173.00"
+    },
+    {
+        "item_code": "1702112040",
+        "description": "PANTOPRAZ DR TAB 40MG(PROTAC)USP(200)",
+        "vendor_price": "295.00",
+        "retail_price": "340.00"
+    },
+    {
+        "item_code": "0202121280",
+        "description": "PARACETAMOL SYRUP (PAED)",
+        "vendor_price": "380.00",
+        "retail_price": "437.00"
+    },
+    {
+        "item_code": "1222711000",
+        "description": "PERINDOPRIL TAB 05MG(COVERSYL)",
+        "vendor_price": "993.00",
+        "retail_price": "1142.00"
+    },
+    {
+        "item_code": "1020331150",
+        "description": "PHYTOMENAD (VIT K)INJ 10MG\/ML BP",
+        "vendor_price": "4800.00",
+        "retail_price": "5520.00"
+    },
+    {
+        "item_code": "3004601310",
+        "description": "POTASSIUM CITRATE BP",
+        "vendor_price": "1287.35",
+        "retail_price": "1480.00"
+    },
+    {
+        "item_code": "1331352012",
+        "description": "POVIDONE IODINE OINT(IODIN PLUS)",
+        "vendor_price": "75.00",
+        "retail_price": "86.00"
+    },
+    {
+        "item_code": "1331362013",
+        "description": "POVIDONE IODINE SOLU USP",
+        "vendor_price": "630.00",
+        "retail_price": "725.00"
+    },
+    {
+        "item_code": "2121861070",
+        "description": "PREDNISOL ACET OPTH SOL 1%(OPTOPRED)USP",
+        "vendor_price": "390.00",
+        "retail_price": "449.00"
+    },
+    {
+        "item_code": "1800711021",
+        "description": "PREDNISOLONE TAB 5MG BP",
+        "vendor_price": "1370.00",
+        "retail_price": "1600.00"
+    },
+    {
+        "item_code": "0502011030",
+        "description": "PREGABALIN CAP 150MG (NOVAPREG)(10X10)",
+        "vendor_price": "1300.00",
+        "retail_price": "1495.00"
+    },
+    {
+        "item_code": "0700711100",
+        "description": "PROCHLORPERAZINE TAB 5MG BP(STEMETIL)",
+        "vendor_price": "1800.00",
+        "retail_price": "2070.00"
+    },
+    {
+        "item_code": "1211012021",
+        "description": "PROPRANOLOL HCL TAB 40MG",
+        "vendor_price": "690.00",
+        "retail_price": "800.00"
+    },
+    {
+        "item_code": "1030812130",
+        "description": "ROSUVASTATIN TAB 05MG (ROSUNOVA)(3X10)",
+        "vendor_price": "85.00",
+        "retail_price": "98.00"
+    },
+    {
+        "item_code": "1030811270",
+        "description": "ROSUVASTATIN TAB 10MG (ROSUNOVA)(10X10)",
+        "vendor_price": "420.00",
+        "retail_price": "483.00"
+    },
+    {
+        "item_code": "2502614010",
+        "description": "SALBUTAMOL CAP 400MCG(ASTHALIN)",
+        "vendor_price": "574.00",
+        "retail_price": "661.00"
+    },
+    {
+        "item_code": "2503161000",
+        "description": "SALBUTAMOL RESP.SOLU(ASTHALIN)",
+        "vendor_price": "120.00",
+        "retail_price": "138.00"
+    },
+    {
+        "item_code": "2502612011",
+        "description": "SALBUTAMOL SUL TAB 4MG",
+        "vendor_price": "605.00",
+        "retail_price": "700.00"
+    },
+    {
+        "item_code": "2502612010",
+        "description": "SALBUTAMOL SUL TAB 4MG BP #",
+        "vendor_price": "605.00",
+        "retail_price": "700.00"
+    },
+    {
+        "item_code": "3005001013",
+        "description": "SALICYLIC ACID BP",
+        "vendor_price": "990.35",
+        "retail_price": "1140.00"
+    },
+    {
+        "item_code": "1811011100",
+        "description": "SILDENAFIL CIT.TAB 50MG (SILAGRA)(1X4)",
+        "vendor_price": "110.00",
+        "retail_price": "127.00"
+    },
+    {
+        "item_code": "1030311310",
+        "description": "SIMVASTATIN TAB 10MG (5X10)",
+        "vendor_price": "280.00",
+        "retail_price": "322.00"
+    },
+    {
+        "item_code": "1832012100",
+        "description": "SITAGLIPTIN TAB 50MG (6X10)",
+        "vendor_price": "800.00",
+        "retail_price": "920.00"
+    },
+    {
+        "item_code": "2600831300",
+        "description": "SODIUM CHLOR (N\/SALINE)W\/O SET",
+        "vendor_price": "3000.00",
+        "retail_price": "3450.00"
+    },
+    {
+        "item_code": "3005101180",
+        "description": "SODIUM CHLORIDE BP",
+        "vendor_price": "140.00",
+        "retail_price": "160.00"
+    },
+    {
+        "item_code": "1740761100",
+        "description": "SODIUM CITRATE GLYCERIN SOLUTION",
+        "vendor_price": "215.00",
+        "retail_price": "247.00"
+    },
+    {
+        "item_code": "1601011201",
+        "description": "SPIRONOLACTONE TAB 25MG USP",
+        "vendor_price": "670.00",
+        "retail_price": "840.00"
+    },
+    {
+        "item_code": "3155600035",
+        "description": "STETHOSCOPE-DUAL RHYTHM-ASH",
+        "vendor_price": "3100.00",
+        "retail_price": "3565.00"
+    },
+    {
+        "item_code": "3155600031",
+        "description": "STETHOSCOPE-DUAL RHYTHM-BLUE",
+        "vendor_price": "3100.00",
+        "retail_price": "3565.00"
+    },
+    {
+        "item_code": "0632211000",
+        "description": "SULPHASALAZINE TAB 0.5G (SAZO EN 500)USP",
+        "vendor_price": "1600.00",
+        "retail_price": "1840.00"
+    },
+    {
+        "item_code": "3102900050",
+        "description": "SURG ADHE TAPE(1.25CMX4.5M)",
+        "vendor_price": "102.60",
+        "retail_price": "118.00"
+    },
+    {
+        "item_code": "0801911060",
+        "description": "TAMOXIFEN TAB 10MG (MAMOFEN-10)(10X10)BP",
+        "vendor_price": "420.00",
+        "retail_price": "483.00"
+    },
+    {
+        "item_code": "1222312060",
+        "description": "TAMSULOSIN HCL CAP 400MCG USP(URIFLO)",
+        "vendor_price": "410.00",
+        "retail_price": "472.00"
+    },
+    {
+        "item_code": "1222312030",
+        "description": "TAMSULOSIN HCL MR CAP 400MCG (78)",
+        "vendor_price": "300.00",
+        "retail_price": "345.00"
+    },
+    {
+        "item_code": "1222911030",
+        "description": "TELMISARTAN TAB 20MG(INNOTEL)USP",
+        "vendor_price": "90.00",
+        "retail_price": "104.00"
+    },
+    {
+        "item_code": "1222912300",
+        "description": "TELMISARTAN TAB 40MG (INNOTEL)(108)",
+        "vendor_price": "280.00",
+        "retail_price": "322.00"
+    },
+    {
+        "item_code": "1222912100",
+        "description": "TELMISARTAN TAB 40MG(10X10)",
+        "vendor_price": "1150.00",
+        "retail_price": "1322.00"
+    },
+    {
+        "item_code": "2101751110",
+        "description": "TETRACYCLINE EYE OINT 1% (OCUCYCLINE)",
+        "vendor_price": "80.00",
+        "retail_price": "92.00"
+    },
+    {
+        "item_code": "2101751100",
+        "description": "TETRACYCLINE EYE OINT 1% USP",
+        "vendor_price": "80.00",
+        "retail_price": "92.00"
+    },
+    {
+        "item_code": "1302051030",
+        "description": "TETRACYCLINE SKIN OINT 3% USP(600)",
+        "vendor_price": "59.00",
+        "retail_price": "68.00"
+    },
+    {
+        "item_code": "2503321020",
+        "description": "THEOPHYLLINE SYRUP (CPU)",
+        "vendor_price": "177.00",
+        "retail_price": "206.00"
+    },
+    {
+        "item_code": "2140661011",
+        "description": "TIMOLOL MAL EYE DROP 0.5%(IOTIM)",
+        "vendor_price": "64.00",
+        "retail_price": "74.00"
+    },
+    {
+        "item_code": "2121161020",
+        "description": "TOBRAMYCIN DEX.EYE DROP(ORBIDEX-T)",
+        "vendor_price": "200.00",
+        "retail_price": "230.00"
+    },
+    {
+        "item_code": "1831511070",
+        "description": "TOLBUTAMIDE TAB 0.5G BP",
+        "vendor_price": "2700.00",
+        "retail_price": "3105.00"
+    },
+    {
+        "item_code": "1351861100",
+        "description": "TOLNAFTATE SOLUTION 1% USP (10ML)",
+        "vendor_price": "850.00",
+        "retail_price": "980.00"
+    },
+    {
+        "item_code": "1020112000",
+        "description": "TRANEXAMIC ACID TAB 500MG (PAUSE)BP",
+        "vendor_price": "800.00",
+        "retail_price": "920.00"
+    },
+    {
+        "item_code": "1020731220",
+        "description": "TRANEXAMIC INJ 500MG\/5ML (XANTRA)",
+        "vendor_price": "625.00",
+        "retail_price": "720.00"
+    },
+    {
+        "item_code": "1211311151",
+        "description": "VERAPAMIL TAB 40MG",
+        "vendor_price": "650.00",
+        "retail_price": "750.00"
+    },
+    {
+        "item_code": "2703411011",
+        "description": "VIT B CO TAB (STRONG)BPC",
+        "vendor_price": "730.00",
+        "retail_price": "850.00"
+    },
+    {
+        "item_code": "2703411111",
+        "description": "VIT B CO TAB C.H.F.",
+        "vendor_price": "1038.00",
+        "retail_price": "1200.00"
+    },
+    {
+        "item_code": "2704011200",
+        "description": "VIT.B COM ZINC &amp; C CAP (BECOZINC)",
+        "vendor_price": "525.00",
+        "retail_price": "604.00"
+    },
+    {
+        "item_code": "2702831040",
+        "description": "VITAMIN B COMPLEX INJ",
+        "vendor_price": "98.00",
+        "retail_price": "113.00"
+    },
+    {
+        "item_code": "1020811160",
+        "description": "WARFARIN TAB 5MG (WARF-5)(10X10)IP",
+        "vendor_price": "560.00",
+        "retail_price": "644.00"
+    }
+]
